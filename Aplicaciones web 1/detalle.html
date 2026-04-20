@@ -1,0 +1,28 @@
+$(function () {
+  const id = parseInt(new URLSearchParams(location.search).get("id"));
+
+  $.getJSON("../data/peliculas.json", function (pelis) {
+    const p = pelis.find(x => x.id === id);
+    const estreno = new Date(p.estreno) >= new Date();
+    const precio = estreno ? p.precios.estreno : p.precios.normal;
+
+    $("#detalle").html(`
+      <img src="../img/${p.imagen}" class="detalle-poster mb-3">
+      <h2>${p.titulo}</h2>
+      <span class="badge ${estreno ? 'bg-danger' : 'bg-success'}">
+        ${estreno ? '🎬 Estreno' : '📽️ Cartelera'}
+      </span>
+      <p class="mt-3">${p.sinopsis}</p>
+      <p><strong>Precio:</strong> $${precio}</p>
+      <div id="reseñas"></div>
+    `);
+
+    $.getJSON("../data/reseñas.json", function (r) {
+      let html = "<h4>Reseñas</h4>";
+      (r[id] || []).forEach(x => {
+        html += `<p><strong>${x.usuario}</strong>: ${"★".repeat(x.calificacion)}</p>`;
+      });
+      $("#reseñas").html(html);
+    });
+  });
+});

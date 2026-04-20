@@ -1,0 +1,15 @@
+[
+  { "peliculaId": 1, "usuario": "Carlos R.", "comentario": "Una obra maestra visual, increíble de principio a fin.", "estrellas": 5 },
+  { "peliculaId": 1, "usuario": "Ana M.", "comentario": "Un poco lenta al principio, pero la cinematografía es espectacular.", "estrellas": 4 },
+  { "peliculaId": 1, "usuario": "Luis F.", "comentario": "Perfecta adaptación del libro, esperando la secuela.", "estrellas": 5 },
+  { "peliculaId": 1, "usuario": "Sofía T.", "comentario": "Los efectos de sonido y la banda sonora son de otro mundo.", "estrellas": 5 },
+
+  { "peliculaId": 2, "usuario": "María G.", "comentario": "Muy divertida y romántica, gran química.", "estrellas": 4 },
+  { "peliculaId": 2, "usuario": "Javier L.", "comentario": "Un clásico de la comedia romántica.", "estrellas": 5 },
+  { "peliculaId": 2, "usuario": "Elena V.", "comentario": "Entretenida, pero el final fue apresurado.", "estrellas": 3 },
+
+  { "peliculaId": 3, "usuario": "Andrés C.", "comentario": "La mejor película de superhéroes de la historia.", "estrellas": 5 },
+  { "peliculaId": 3, "usuario": "Roberto D.", "comentario": "Oscura y con guion brillante.", "estrellas": 5 },
+  { "peliculaId": 3, "usuario": "Camila S.", "comentario": "Pura tensión de principio a fin.", "estrellas": 5 },
+  { "peliculaId": 3, "usuario": "Fernando P.", "comentario": "Excelente aunque algo larga.", "estrellas": 4 }
+]

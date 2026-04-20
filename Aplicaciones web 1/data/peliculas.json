@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "titulo": "Dune",
+    "imagen": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "generos": ["Aventura", "Ciencia Ficción", "Drama"],
+    "sinopsis": "En un futuro lejano, el joven Paul Atreides, heredero de una casa noble, se ve obligado a viajar al planeta más peligroso del universo, Arrakis, también conocido como Dune. Este planeta es la única fuente de la especia, la sustancia más valiosa que extiende la vida humana y otorga poderes sobrehumanos. Al llegar, fuerzas oscuras y traiciones amenazan con destruir a su familia, desencadenando una guerra épica por el control del desierto, los gigantescos gusanos de arena y el destino de la humanidad entera.",
+    "trailer": "https://www.youtube.com/embed/n9xhJrPXop4",
+    "estreno": "2021-10-22",
+    "precios": { "estreno": 15.00, "normal": 5.00 }
+  },
+  {
+    "id": 2,
+    "titulo": "50 primeras citas",
+    "imagen": "https://image.tmdb.org/t/p/w500/A0H3k0U2t8RkOqG8S2pDkSj4P4H.jpg",
+    "generos": ["Comedia", "Romance"],
+    "sinopsis": "Henry Roth es un biólogo marino que vive en Hawái y disfruta de la vida sin compromisos, hasta que conoce a Lucy Whitmore, una encantadora profesora de arte. El problema es que Lucy sufre de amnesia anterógrada tras un accidente automovilístico, por lo que cada mañana olvida absolutamente todo lo ocurrido el día anterior. Para conquistar su corazón, Henry deberá ingeniárselas para enamorarla desde cero todos los días, enfrentando la desaprobación de la familia de ella y sus propios miedos al compromiso.",
+    "trailer": "https://www.youtube.com/embed/Q_2AbjYeSMI",
+    "estreno": "2004-02-13",
+    "precios": { "estreno": 12.00, "normal": 4.00 }
+  },
+  {
+    "id": 3,
+    "titulo": "Batman: Caballero de la Noche",
+    "imagen": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "generos": ["Acción", "Crimen", "Drama"],
+    "sinopsis": "Con la ayuda del teniente Jim Gordon y el nuevo y comprometido fiscal del distrito Harvey Dent, Batman se propone destruir para siempre el crimen organizado en la ciudad de Gotham. El triunvirato demuestra ser muy eficaz, pero pronto se encontrarán presa de un incipiente cerebro criminal conocido como el Joker, que introduce la anarquía en Gotham y obliga al Caballero Oscuro a cruzar cada vez más la fina línea que separa al héroe del justiciero implacable en su búsqueda por la paz.",
+    "trailer": "https://www.youtube.com/embed/EXeTwQWrcwY",
+    "estreno": "2008-07-18",
+    "precios": { "estreno": 14.00, "normal": 6.00 }
+  },
+  {
+    "id": 4,
+    "titulo": "Spider-Man: No Way Home",
+    "imagen": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1Zq1kLzEofYQ2u.jpg",
+    "generos": ["Acción", "Aventura", "Fantasía"],
+    "sinopsis": "Tras la revelación de su identidad secreta por parte de Mysterio, la vida de Peter Parker se convierte en un caos absoluto, afectando también a sus seres queridos. Desesperado por restaurar la normalidad, acude al Doctor Strange en busca de ayuda mágica para que el mundo olvide quién es. Sin embargo, el hechizo sale terriblemente mal y fractura el multiverso, atrayendo a temibles villanos de otras realidades. Peter deberá enfrentar su mayor desafío para salvar no solo su mundo, sino el tejido de la realidad.",
+    "trailer": "https://www.youtube.com/embed/JfVOs4VSpmA",
+    "estreno": "2021-12-15",
+    "precios": { "estreno": 18.00, "normal": 7.00 }
+  },
+  {
+    "id": 5,
+    "titulo": "Rampage",
+    "imagen": "https://image.tmdb.org/t/p/w500/30oXQKwibh0uANGMs0Sytw3uN22.jpg",
+    "generos": ["Acción", "Ciencia Ficción", "Aventura"],
+    "sinopsis": "El primatólogo Davis Okoye comparte un vínculo inquebrantable con George, un gorila de lomo plateado extraordinariamente inteligente que ha estado a su cuidado desde que nació. Pero un experimento genético clandestino que sale mal muta a este dócil simio en una criatura furiosa de proporciones gigantescas. Para empeorar las cosas, pronto se descubre que hay otros animales alterados de forma similar. Mientras estos depredadores alfa recién creados arrasan Norteamérica, Okoye se une a un ingeniero para conseguir un antídoto.",
+    "trailer": "https://www.youtube.com/embed/coOKvrsmQiI",
+    "estreno": "2018-04-13",
+    "precios": { "estreno": 13.00, "normal": 5.00 }
+  },
+  {
+    "id": 6,
+    "titulo": "Matrix",
+    "imagen": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "generos": ["Acción", "Ciencia Ficción"],
+    "sinopsis": "Thomas Anderson lleva una doble vida: de día es un programador de software de una respetable compañía, y de noche es un hacker informático conocido como Neo. Tras recibir mensajes crípticos en su ordenador, comienza a buscar la verdad sobre la Matrix. Sus investigaciones lo llevan a contactar con Morfeo, un líder rebelde. Morfeo le revela que la realidad en la que vive es una simulación virtual creada por inteligencias artificiales que usan a los humanos como fuente de energía.",
+    "trailer": "https://www.youtube.com/embed/vKQi3bBA1y8",
+    "estreno": "1999-03-31",
+    "precios": { "estreno": 12.00, "normal": 4.50 }
+  },
+  {
+    "id": 7,
+    "titulo": "Misión Imposible: Sentencia Final",
+    "imagen": "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+    "generos": ["Acción", "Aventura", "Suspense"],
+    "sinopsis": "Ethan Hunt y su equipo de la FMI se embarcan en su misión más peligrosa y trascendental hasta la fecha: rastrear y localizar una nueva y aterradora arma de inteligencia artificial que amenaza a toda la humanidad antes de que caiga en las manos equivocadas. Con el control del futuro y el destino del mundo en juego, y fuerzas oscuras del pasado de Ethan acercándose, comienza una carrera mortal alrededor del globo. Ethan deberá sacrificarlo todo para triunfar.",
+    "trailer": "https://www.youtube.com/embed/2m1drlOZSDw",
+    "estreno": "2026-05-22",
+    "precios": { "estreno": 20.00, "normal": 10.00 }
+  },
+  {
+    "id": 8,
+    "titulo": "Búsqueda Implacable",
+    "imagen": "https://image.tmdb.org/t/p/w500/wR5H8Q0n0vB9B3p23jJ2d25L2R2.jpg",
+    "generos": ["Acción", "Crimen", "Suspense"],
+    "sinopsis": "Bryan Mills es un ex agente de la CIA altamente capacitado, con un conjunto de habilidades muy particulares adquiridas durante una larga carrera en las sombras. Cuando su hija adolescente, Kim, viaja a París de vacaciones con una amiga y es secuestrada por una despiadada red de trata de personas, Bryan no dudará en utilizar todos sus recursos y entrenamiento letal para encontrarla. Con el reloj corriendo en su contra, viajará a Europa para desatar su furia y rescatarla.",
+    "trailer": "https://www.youtube.com/embed/uPJVj1h0_E4",
+    "estreno": "2008-02-27",
+    "precios": { "estreno": 14.00, "normal": 5.50 }
+  }
+]
